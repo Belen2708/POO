@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//Controlador del cliente
 public class ControladorCliente {
 
     //Crear lista de clientes
